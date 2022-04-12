@@ -1,0 +1,11 @@
+gym
+numpy
+pandas
+pillow
+pettingzoo
+
+[all]
+pyvirtualdisplay
+
+[rendering]
+pyvirtualdisplay
