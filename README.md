@@ -3,6 +3,6 @@
 - [Fiona Burleson](https://github.com/fionarb)
 - [Justin Doan](https://github.com/justin-doan)
 - [James Han](https://github.com/notJamesHan) 
-- [Cassandra Lauzon]
+- Cassandra Lauzon
 - [Ryan Aspenleiter](https://github.com/RyanAspen) - Research Lead
-- Dr.Yangwan Chun
+- Dr. Yangwan Chun - Faculty Advisor
