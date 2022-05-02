@@ -32,7 +32,7 @@ It is estimated that the average american will lose about 97 hours every year as
 <img src="https://user-images.githubusercontent.com/77949696/166318037-a0ec4b26-9197-45b9-b9a5-64b01a64d12c.png" width="600">
 <img src="https://user-images.githubusercontent.com/77949696/166319015-614ac820-54b2-4200-9e21-739e7de1b475.png" width="400">
 
-- **S**imulation of **U**rban **MO**bility is an open source, portable, microscopic and continuous multi-modal traffic simulation package designed to handle large networks.
+- ***S***imulation of ***U***rban ***MO***bility is an open source, portable, microscopic and continuous multi-modal traffic simulation package designed to handle large networks.
 - It’s also cited as being traditionally used in traffic signal control studies, so we determined it was the best way to create our simulation environment.
 
 
@@ -40,10 +40,11 @@ It is estimated that the average american will lose about 97 hours every year as
 Our initial goal was to have our model train on real world data and compare its optimizations to real world performances. However, there were too many difficulties in Data Preprocessing. There were too much missing data, issues with converting data to vehicle routes, and difficulty building the environment for the datasets. Because of these issues, we sticked with route generated data to train our model.
 
 ### Developing the Model
-<img src="https://user-images.githubusercontent.com/77949696/166320864-b1a8ba32-3259-4af4-9137-479a9fad1b37.png" width="450">
-- Uses **TraCI (Traffic Control Interface)**, a library in SUMO that allows for the controlling of the traffic signals
+- Uses ***TraCI (Traffic Control Interface)***, a library in SUMO that allows for the controlling of the traffic signals
 
-- Action selection determined by an epsilon-greedy algorithm
+<img src="https://user-images.githubusercontent.com/77949696/166320864-b1a8ba32-3259-4af4-9137-479a9fad1b37.png" width="450">
+
+- Action selection determined by an ***epsilon-greedy algorithm*** (picture above)
   - Balances exploration and exploitation
   - Initial epsilon value for the experiment was set to be 0.05
 
