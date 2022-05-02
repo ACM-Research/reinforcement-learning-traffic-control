@@ -6,7 +6,7 @@
 It is estimated that the average american will lose about 97 hours every year as a result of traffic congestion, which has significant financial effects. If you take a look at this graph provided by INRIX (the world leader in mobility analytics), you can see that the congestion cost per driver, the cost of congestion which takes into account the increase in fuel wasted, negative effects of pollution, and other factors, has hit record highs and is only increasing. Our goal is to reduce this, to mitigate the effects of traffic congestion by exploring the effectiveness of applying reinforcement learning to traffic light signal control.
 
 
-## Timeline
+### Timeline
 - Explore Reinforcement Learning Approaches
 - Configure Simulation Environment
 - Data preprocessing
