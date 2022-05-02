@@ -66,4 +66,4 @@ Our initial goal was to have our model train on real world data and compare its 
 - [James Han](https://github.com/notJamesHan) 
 - Cassandra Lauzon
 - [Ryan Aspenleiter](https://github.com/RyanAspen) - Research Lead
-- Dr. Yangwan Chun - Faculty Advisor
+- Dr. Yongwan Chun - Faculty Advisor
